@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manuel
-- 👀 I’m interested in IT & Technology
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on cybersecurity projects
 - 📫 I can be reached on ([LinkedIn](https://www.linkedin.com/in/emmanuel-ijelu/
